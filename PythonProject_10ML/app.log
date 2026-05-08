@@ -1,0 +1,93 @@
+2026-05-04 11:05:02,794 | user_id=web_2406603c | action=open_page | result=Главная
+2026-05-04 11:05:32,933 | user_id=web_2406603c | action=open_page | result=Сравнение моделей
+2026-05-04 11:05:38,266 | user_id=web_2406603c | action=open_page | result=Расширенное сравнение моделей
+2026-05-04 11:06:36,985 | user_id=web_2406603c | action=open_page | result=Кластеры отзывов
+2026-05-04 11:09:35,368 | user_id=web_2406603c | action=open_page | result=Кластеры отзывов
+2026-05-04 11:09:37,382 | user_id=web_2406603c | action=open_page | result=Кластеры отзывов
+2026-05-04 11:09:38,785 | user_id=web_2406603c | action=open_page | result=Кластеры отзывов
+2026-05-04 11:09:41,646 | user_id=web_2406603c | action=open_page | result=Кластеры отзывов
+2026-05-04 11:09:52,967 | user_id=web_2406603c | action=open_page | result=Кластеры отзывов
+2026-05-04 11:10:10,536 | user_id=web_2406603c | action=open_page | result=Защита данных
+2026-05-04 11:10:11,995 | user_id=web_2406603c | action=open_page | result=Логи приложения
+2026-05-04 11:10:16,121 | user_id=web_2406603c | action=open_page | result=Защита данных
+2026-05-04 11:10:17,425 | user_id=web_2406603c | action=open_page | result=Логи приложения
+2026-05-04 11:10:20,511 | user_id=web_2406603c | action=open_page | result=Кластеры отзывов
+2026-05-04 11:10:21,533 | user_id=web_2406603c | action=open_page | result=Логи приложения
+2026-05-04 11:27:59,944 | user_id=web_2406603c | action=open_page | result=Защита данных
+2026-05-04 11:28:01,395 | user_id=web_2406603c | action=open_page | result=Добавить отзыв
+2026-05-04 11:28:02,417 | user_id=web_2406603c | action=open_page | result=Рекомендации
+2026-05-04 11:28:04,118 | user_id=web_2406603c | action=open_page | result=Аналитика
+2026-05-04 11:28:04,342 | user_id=web_2406603c | action=open_page | result=Статистика товаров
+2026-05-04 11:28:05,835 | user_id=web_2406603c | action=open_page | result=Аналитика
+2026-05-04 11:28:12,634 | user_id=web_2406603c | action=open_page | result=Статистика товаров
+2026-05-04 11:28:23,597 | user_id=web_2406603c | action=open_page | result=Сравнение моделей
+2026-05-08 20:54:26,335 | user_id=web_dc59a578 | action=open_page | result=Главная
+2026-05-08 20:55:03,836 | user_id=web_adf9421c | action=open_page | result=Главная
+2026-05-08 20:56:02,084 | user_id=web_f47b37e2 | action=open_page | result=Главная
+2026-05-08 20:56:10,740 | user_id=web_f47b37e2 | action=open_page | result=Логи приложения
+2026-05-08 20:56:13,154 | user_id=web_f47b37e2 | action=open_page | result=Главная
+2026-05-08 21:01:50,831 | user_id=web_f47b37e2 | action=open_page | result=Добавить отзыв
+2026-05-08 21:03:48,737 | user_id=web_f47b37e2 | action=open_page | result=Добавить отзыв
+2026-05-08 21:03:48,749 | user_id=web_f47b37e2 | action=add_review | result=Отзыв сохранён, sentiment=positive
+2026-05-08 21:04:02,054 | user_id=web_f47b37e2 | action=open_page | result=Рекомендации
+2026-05-08 21:04:11,878 | user_id=web_f47b37e2 | action=open_page | result=Аналитика
+2026-05-08 21:07:40,757 | user_id=web_6cb655a6 | action=open_page | result=Главная
+2026-05-08 21:07:43,953 | user_id=web_6cb655a6 | action=open_page | result=Добавить отзыв
+2026-05-08 21:07:45,023 | user_id=web_6cb655a6 | action=open_page | result=Рекомендации
+2026-05-08 21:07:47,052 | user_id=web_6cb655a6 | action=open_page | result=Аналитика
+2026-05-08 21:07:52,172 | user_id=web_6cb655a6 | action=open_page | result=Статистика товаров
+2026-05-08 21:08:02,633 | user_id=web_6cb655a6 | action=open_page | result=Сравнение моделей
+2026-05-08 21:08:14,623 | user_id=web_6cb655a6 | action=open_page | result=Расширенное сравнение моделей
+2026-05-08 21:09:19,466 | user_id=web_6cb655a6 | action=open_page | result=Кластеры отзывов
+2026-05-08 21:25:44,152 | user_id=web_6cb655a6 | action=open_page | result=Расширенное сравнение моделей
+2026-05-08 21:25:46,799 | user_id=web_6cb655a6 | action=open_page | result=Сравнение моделей
+2026-05-08 21:25:47,352 | user_id=web_6cb655a6 | action=open_page | result=Статистика товаров
+2026-05-08 21:25:49,695 | user_id=web_6cb655a6 | action=open_page | result=Аналитика
+2026-05-08 21:26:48,493 | user_id=web_6cb655a6 | action=open_page | result=Рекомендации
+2026-05-08 21:27:07,004 | user_id=web_6cb655a6 | action=open_page | result=Аналитика
+2026-05-08 21:27:24,665 | user_id=web_6cb655a6 | action=open_page | result=Рекомендации
+2026-05-08 21:27:27,226 | user_id=web_6cb655a6 | action=open_page | result=Статистика товаров
+2026-05-08 21:27:31,267 | user_id=web_6cb655a6 | action=open_page | result=Аналитика
+2026-05-08 21:31:05,181 | user_id=web_6cb655a6 | action=open_page | result=Добавить отзыв
+2026-05-08 21:31:18,193 | user_id=web_6cb655a6 | action=open_page | result=Аналитика
+2026-05-08 21:31:26,872 | user_id=web_6cb655a6 | action=open_page | result=Рекомендации
+2026-05-08 21:32:37,403 | user_id=web_f47b37e2 | action=open_page | result=Статистика товаров
+2026-05-08 21:47:48,188 | user_id=web_1111bd25 | action=open_page | result=Главная
+2026-05-08 21:47:49,691 | user_id=web_1111bd25 | action=open_page | result=Аналитика
+2026-05-08 21:47:50,171 | user_id=web_1111bd25 | action=open_page | result=Статистика товаров
+2026-05-08 21:50:10,202 | user_id=web_1111bd25 | action=open_page | result=Рекомендации
+2026-05-08 22:00:03,813 | user_id=web_f49a78bb | action=open_page | result=Главная
+2026-05-08 22:00:05,761 | user_id=web_f2a69a6d | action=open_page | result=Главная
+2026-05-08 22:00:09,200 | user_id=web_655b97b1 | action=open_page | result=Главная
+2026-05-08 23:03:45,368 | user_id=web_e26508ec | action=open_page | result=Главная
+2026-05-08 23:04:45,562 | user_id=web_e26508ec | action=open_page | result=Главная
+2026-05-08 23:04:48,912 | user_id=web_e26508ec | action=open_page | result=Добавить отзыв
+2026-05-08 23:04:50,267 | user_id=web_e26508ec | action=open_page | result=Рекомендации
+2026-05-08 23:07:46,854 | user_id=web_e26508ec | action=open_page | result=Аналитика
+2026-05-08 23:08:03,461 | user_id=web_e26508ec | action=open_page | result=Статистика товаров
+2026-05-08 23:08:13,702 | user_id=web_e26508ec | action=open_page | result=Аналитика
+2026-05-08 23:08:26,412 | user_id=web_e26508ec | action=open_page | result=Статистика товаров
+2026-05-08 23:08:27,822 | user_id=web_e26508ec | action=open_page | result=Сравнение моделей
+2026-05-08 23:08:38,414 | user_id=web_e26508ec | action=open_page | result=Расширенное сравнение моделей
+2026-05-08 23:17:29,184 | user_id=web_e26508ec | action=open_page | result=Логи приложения
+2026-05-08 23:20:31,354 | user_id=web_e26508ec | action=open_page | result=Главная
+2026-05-08 23:20:34,428 | user_id=web_e26508ec | action=open_page | result=Кластеры отзывов
+2026-05-08 23:20:50,485 | user_id=web_e26508ec | action=open_page | result=Кластеры отзывов
+2026-05-08 23:20:51,452 | user_id=web_e26508ec | action=open_page | result=Главная
+2026-05-08 23:21:05,510 | user_id=web_e26508ec | action=open_page | result=Логи приложения
+2026-05-08 23:21:10,535 | user_id=web_e26508ec | action=open_page | result=Главная
+2026-05-08 23:21:14,597 | user_id=web_e26508ec | action=open_page | result=Рекомендации
+2026-05-08 23:21:15,172 | user_id=web_e26508ec | action=open_page | result=Добавить отзыв
+2026-05-08 23:21:16,316 | user_id=web_e26508ec | action=open_page | result=Аналитика
+2026-05-08 23:21:17,851 | user_id=web_e26508ec | action=open_page | result=Главная
+2026-05-08 23:21:18,592 | user_id=web_e26508ec | action=open_page | result=Добавить отзыв
+2026-05-08 23:21:19,809 | user_id=web_e26508ec | action=open_page | result=Аналитика
+2026-05-08 23:21:20,413 | user_id=web_e26508ec | action=open_page | result=Рекомендации
+2026-05-08 23:21:22,629 | user_id=web_e26508ec | action=open_page | result=Аналитика
+2026-05-08 23:21:23,658 | user_id=web_e26508ec | action=open_page | result=Статистика товаров
+2026-05-08 23:21:26,512 | user_id=web_e26508ec | action=open_page | result=Сравнение моделей
+2026-05-08 23:21:30,701 | user_id=web_e26508ec | action=open_page | result=Расширенное сравнение моделей
+2026-05-08 23:37:36,135 | user_id=web_e26508ec | action=open_page | result=Сравнение моделей
+2026-05-08 23:37:39,682 | user_id=web_e26508ec | action=open_page | result=Расширенное сравнение моделей
+2026-05-08 23:37:44,800 | user_id=web_e26508ec | action=open_page | result=Сравнение моделей
+2026-05-08 23:37:48,584 | user_id=web_e26508ec | action=open_page | result=Расширенное сравнение моделей
